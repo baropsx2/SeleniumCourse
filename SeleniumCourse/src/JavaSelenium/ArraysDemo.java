@@ -5,7 +5,7 @@ import java.util.*;
 public class ArraysDemo {
 	public static void main(String[] args) {
 					
-		//Imprime Arrays con enteros en varias líneas (Int)
+		//Imprime Arrays con enteros en varias l?neas (Int)
 		
 		/*
 		int[] myIntArray1;
@@ -20,7 +20,7 @@ public class ArraysDemo {
 		System.out.println("1st index: " + myIntArray1[1]);
 		System.out.println("2nd index: "+ myIntArray1[2]);
 		
-		//Imprime Arrays con texto en una sola línea (String)
+		//Imprime Arrays con texto en una sola l?nea (String)
 		String[] myStringArray1 = {"bmw", "audi", "honda"};
 		System.out.println("0 index: " + myStringArray1[0]);
 		System.out.println("1st index: " + myStringArray1[1]);
