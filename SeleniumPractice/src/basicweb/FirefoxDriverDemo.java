@@ -7,7 +7,7 @@ public class FirefoxDriverDemo {
 
 	public static void main(String[] args) {
 		WebDriver driver;
-		System.setProperty("webdriver.gecko.driver", "C:/Users/BoXX/eclipse-workspace/Selenium/geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\Drivers\\geckodriver.exe");
 		driver = new FirefoxDriver();
 		String baseURL = "http://www.facebook.com";
 		
